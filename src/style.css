@@ -1,64 +1,70 @@
-*{
+* {
     margin: 0;
     padding: 0;
     text-decoration: none;
-    
-} 
-  
-.amaranoc{ 
-width:200px;
-height: 190px;
-margin-left: 50px;
-margin-top: -50px;
+
 }
 
-.zexcher{
+.amaranoc {
+    width: 200px;
+    height: 190px;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.zexcher {
     position: absolute;
     color: black;
     width: 100px;
     height: 100px;
-    left:550px;
+    left: 550px;
     top: 35px;
 }
-.carayutyunner{
+
+.carayutyunner {
     position: absolute;
     color: black;
     width: 100px;
     height: 100px;
-    left:700px;
+    left: 700px;
     top: 35px;
 }
-.mermasin{
+
+.mermasin {
     position: absolute;
     color: black;
     width: 100px;
     height: 100px;
-    left:900px; 
+    left: 900px;
     top: 35px;
 }
-.globus{
+
+.globus {
     position: absolute;
     width: 20px;
     height: 20px;
     left: 1100px;
     top: 34px;
 }
-.mard{
-       position: absolute;
+
+.mard {
+    position: absolute;
     width: 30px;
     height: 30px;
     left: 1150px;
-    top: 30px; 
+    top: 30px;
 }
-.glxavor2{
- position: relative;
-   color: black; 
+
+.glxavor2 {
+    position: relative;
+    color: black;
     width: 200px;
-top: -108px;
-   left: 400px;
+    top: -108px;
+    left: 400px;
 
 }
-.inputvoronum{
+
+.inputvoronum {
     position: absolute;
     width: 200px;
     height: 40px;
@@ -67,37 +73,42 @@ top: -108px;
     left: 1250px;
     top: 34px;
 }
-.voronum{
+
+.voronum {
     position: absolute;
     left: 1260px;
     top: 34px;
 }
 
-.qartez{
+.qartez {
     position: absolute;
     left: -650px;
     top: 40px;
 }
-.qartez-btn{
+
+.qartez-btn {
     position: absolute;
     width: 100px;
     height: 40px;
-   background-color: White;
+    background-color: White;
     border: 1px solid;
     border-radius: 20px;
     left: 1100px;
     top: 80px;
 }
-.qartez-btn:hover{
+
+.qartez-btn:hover {
     background-color: #dfdfdf;
     color: white;
 }
-.calendar{
+
+.calendar {
     position: absolute;
     left: -600px;
     top: 40px;
 }
-.calendar-btn{
+
+.calendar-btn {
     position: absolute;
     width: 40px;
     background-color: White;
@@ -107,7 +118,8 @@ top: -108px;
     left: 1180px;
     top: 80px;
 }
-.calendar-btn:hover{
+
+.calendar-btn:hover {
     background-color: #dfdfdf;
     color: white;
 }
@@ -125,7 +137,7 @@ top: -108px;
     border-bottom: 1px solid #eee;
 }
 
-.divglxavor  {
+.divglxavor {
     border-bottom: none;
 }
 
@@ -286,52 +298,55 @@ top: -108px;
     background: #17171f;
     color: white;
 }
+
 .navigation-mas {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 15px;
-  padding: 20px 25px;
-  width: 70%;
-  margin-left: 400px;
-  margin-top: -1100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 20px 25px;
+    width: 70%;
+    margin-left: 400px;
+    margin-top: -1100px;
 }
 
 .kategoria {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 12px;
-  flex: 1;
-  white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+    white-space: nowrap;
 }
 
 .kategoria img {
-  width: 41px;
-  height: 40px;
+    width: 41px;
+    height: 40px;
 }
 
 .kategoria span {
-  font-size: 16px;
-  color: #101623;
+    font-size: 16px;
+    color: #101623;
 }
 
 .kategoria-imas {
-  width: 50px;
-  height: 50px;
-  flex-shrink: 0;
-  border: 1px solid #999;
-  border-radius: 50%;
-  background: white;
-  cursor: pointer;
-    }
-.lavaguyni-mas {
-  margin-top: 20px;
-  margin-left: 400px;
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    border: 1px solid #999;
+    border-radius: 50%;
+    background: white;
+    cursor: pointer;
 }
+
+.lavaguyni-mas {
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
 .lavaguyni-mas-h3 {
-  font-size: 24px;
-  color: #101623;
+    font-size: 24px;
+    color: #101623;
 }
 
 
@@ -345,7 +360,7 @@ top: -108px;
 }
 
 .image {
-    width: 365px ;
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -422,8 +437,8 @@ top: -108px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar3{
-    width: 365px ;
+.nkar3 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -436,7 +451,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun3{
+.texekutyun3 {
     padding: 20px 22px 25px;
 }
 
@@ -458,14 +473,14 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin3  {
+.gin3 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin3  i {
+.gin3 i {
     font-size: 18px;
 }
 
@@ -484,8 +499,8 @@ top: -108px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar{
-    width: 365px ;
+.nkar {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -498,7 +513,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun{
+.texekutyun {
     padding: 20px 22px 25px;
 }
 
@@ -527,7 +542,7 @@ top: -108px;
     margin-top: 23px;
 }
 
-.gin  i {
+.gin i {
     font-size: 18px;
 }
 
@@ -549,8 +564,8 @@ top: -108px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar4{
-    width: 365px ;
+.nkar4 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -563,7 +578,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun4{
+.texekutyun4 {
     padding: 20px 22px 25px;
 }
 
@@ -585,14 +600,14 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin4  {
+.gin4 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin4  i {
+.gin4 i {
     font-size: 18px;
 }
 
@@ -612,8 +627,8 @@ top: -108px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar5{
-    width: 365px ;
+.nkar5 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -626,7 +641,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun5{
+.texekutyun5 {
     padding: 20px 22px 25px;
 }
 
@@ -648,14 +663,14 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin5  {
+.gin5 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin5  i {
+.gin5 i {
     font-size: 18px;
 }
 
@@ -676,8 +691,8 @@ top: -108px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar6{
-    width: 365px ;
+.nkar6 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -690,7 +705,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun6{
+.texekutyun6 {
     padding: 20px 22px 25px;
 }
 
@@ -712,14 +727,14 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin6  {
+.gin6 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin6  i {
+.gin6 i {
     font-size: 18px;
 }
 
@@ -736,13 +751,13 @@ top: -108px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:400px;
+    margin-left: 400px;
     margin-top: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar7{
-    width: 365px ;
+.nkar7 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -755,7 +770,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun7{
+.texekutyun7 {
     padding: 20px 22px 25px;
 }
 
@@ -777,14 +792,14 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin7  {
+.gin7 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin7  i {
+.gin7 i {
     font-size: 18px;
 }
 
@@ -804,8 +819,8 @@ top: -108px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar6{
-    width: 365px ;
+.nkar6 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -818,7 +833,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun6{
+.texekutyun6 {
     padding: 20px 22px 25px;
 }
 
@@ -840,14 +855,14 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin6  {
+.gin6 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin6  i {
+.gin6 i {
     font-size: 18px;
 }
 
@@ -864,13 +879,13 @@ top: -108px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:400px;
+    margin-left: 400px;
     margin-top: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar7{
-    width: 365px ;
+.nkar7 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -883,7 +898,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun7{
+.texekutyun7 {
     padding: 20px 22px 25px;
 }
 
@@ -905,14 +920,14 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin7  {
+.gin7 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin7  i {
+.gin7 i {
     font-size: 18px;
 }
 
@@ -922,28 +937,29 @@ top: -108px;
 }
 
 .sovorakanarajarkner {
-  margin-top: 20px;
-  margin-left: 400px;
+    margin-top: 20px;
+    margin-left: 400px;
 }
+
 .sovorakanarajarkner-h3 {
-  font-size: 24px;
-  color: #101623;
+    font-size: 24px;
+    color: #101623;
 }
 
 
-    
+
 .card10 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:400px;
+    margin-left: 400px;
     margin-top: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar10{
-    width: 365px ;
+.nkar10 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
@@ -956,7 +972,7 @@ top: -108px;
     border-radius: 14px;
 }
 
-.texekutyun10{
+.texekutyun10 {
     padding: 20px 22px 25px;
 }
 
@@ -978,14 +994,14 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin10  {
+.gin10 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin10  i {
+.gin10 i {
     font-size: 18px;
 }
 
@@ -995,32 +1011,32 @@ top: -108px;
 }
 
 
-    
+
 .card11 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:760px;
+    margin-left: 760px;
     margin-top: -410px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar11{
-    width: 365px ;
+.nkar11 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar11 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun11{
+.texekutyun11 {
     padding: 20px 22px 25px;
 }
 
@@ -1042,48 +1058,49 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin11  {
+.gin11 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin11  i {
+.gin11 i {
     font-size: 18px;
 }
+
 .gin11 h2 {
     font-size: 27px;
     color: #000000;
 }
 
 
-    
+
 .card12 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:1120px;
+    margin-left: 1120px;
     margin-top: -410px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar12{
-    width: 365px ;
+.nkar12 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar12 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun12{
+.texekutyun12 {
     padding: 20px 22px 25px;
 }
 
@@ -1105,47 +1122,48 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin12  {
+.gin12 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin12  i {
+.gin12 i {
     font-size: 18px;
 }
+
 .gin12 h2 {
     font-size: 27px;
     color: #000000;
 }
 
-   
-.card13{
+
+.card13 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:400px;
+    margin-left: 400px;
     margin-top: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar13{
-    width: 365px ;
+.nkar13 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar13 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun13{
+.texekutyun13 {
     padding: 20px 22px 25px;
 }
 
@@ -1167,47 +1185,48 @@ top: -108px;
     color: #ff812c;
 }
 
-.gin13  {
+.gin13 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin13  i {
+.gin13 i {
     font-size: 18px;
 }
+
 .gin13 h2 {
     font-size: 27px;
     color: #000000;
 }
 
 
-.card14{
+.card14 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:760px;
+    margin-left: 760px;
     margin-top: -405px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar14{
-    width: 365px ;
+.nkar14 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar14 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun14    {
+.texekutyun14 {
     padding: 20px 22px 25px;
 }
 
@@ -1225,20 +1244,21 @@ top: -108px;
 }
 
 .maser14 i,
-.gin14   i {
+.gin14 i {
     color: #ff812c;
 }
 
-.gin14   {
+.gin14 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin14   i {
+.gin14 i {
     font-size: 18px;
 }
+
 .gin14 h2 {
     font-size: 27px;
     color: #000000;
@@ -1246,31 +1266,31 @@ top: -108px;
 
 
 
-.card15{
+.card15 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:1120px;
+    margin-left: 1120px;
     margin-top: -405px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar15{
-    width: 365px ;
+.nkar15 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar15 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun15    {
+.texekutyun15 {
     padding: 20px 22px 25px;
 }
 
@@ -1288,50 +1308,51 @@ top: -108px;
 }
 
 .maser15 i,
-.gin15   i {
+.gin15 i {
     color: #ff812c;
 }
 
-.gin15   {
+.gin15 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin15   i {
+.gin15 i {
     font-size: 18px;
 }
+
 .gin15 h2 {
     font-size: 27px;
     color: #000000;
 }
 
-.card16{
+.card16 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:400px;
+    margin-left: 400px;
     margin-top: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar16{
-    width: 365px ;
+.nkar16 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar16 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun16    {
+.texekutyun16 {
     padding: 20px 22px 25px;
 }
 
@@ -1349,51 +1370,52 @@ top: -108px;
 }
 
 .maser16 i,
-.gin16   i {
+.gin16 i {
     color: #ff812c;
 }
 
-.gin16   {
+.gin16 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin16   i {
+.gin16 i {
     font-size: 18px;
 }
+
 .gin16 h2 {
     font-size: 27px;
     color: #000000;
 }
 
 
-.card17{
+.card17 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:760px;
+    margin-left: 760px;
     margin-top: -405px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar17{
-    width: 365px ;
+.nkar17 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar17 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun17    {
+.texekutyun17 {
     padding: 20px 22px 25px;
 }
 
@@ -1411,20 +1433,21 @@ top: -108px;
 }
 
 .maser17 i,
-.gin17   i {
+.gin17 i {
     color: #ff812c;
 }
 
-.gin17   {
+.gin17 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin17   i {
+.gin17 i {
     font-size: 18px;
 }
+
 .gin17 h2 {
     font-size: 27px;
     color: #000000;
@@ -1432,31 +1455,31 @@ top: -108px;
 
 
 
-.card18{
+.card18 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:1120px;
+    margin-left: 1120px;
     margin-top: -405px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar18{
-    width: 365px ;
+.nkar18 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar18 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun18   {
+.texekutyun18 {
     padding: 20px 22px 25px;
 }
 
@@ -1474,50 +1497,51 @@ top: -108px;
 }
 
 .maser18 i,
-.gin18   i {
+.gin18 i {
     color: #ff812c;
 }
 
-.gin18   {
+.gin18 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin18   i {
+.gin18 i {
     font-size: 18px;
 }
+
 .gin18 h2 {
     font-size: 27px;
     color: #000000;
 }
 
-.card19{
+.card19 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:400px;
+    margin-left: 400px;
     margin-top: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar19{
-    width: 365px ;
+.nkar19 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
 .nkar19 img {
-    width:100%;
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun19    {
+.texekutyun19 {
     padding: 20px 22px 25px;
 }
 
@@ -1535,20 +1559,21 @@ top: -108px;
 }
 
 .maser19 i,
-.gin19   i {
+.gin19 i {
     color: #ff812c;
 }
 
-.gin19   {
+.gin19 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin19   i {
+.gin19 i {
     font-size: 18px;
 }
+
 .gin19 h2 {
     font-size: 27px;
     color: #000000;
@@ -1556,31 +1581,31 @@ top: -108px;
 
 
 
-.card20{
+.card20 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:760px;
+    margin-left: 760px;
     margin-top: -405px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar20{
-    width: 365px ;
+.nkar20 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
-.nkar20  img {
-    width:100%;
+.nkar20 img {
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun20    {
+.texekutyun20 {
     padding: 20px 22px 25px;
 }
 
@@ -1598,49 +1623,51 @@ top: -108px;
 }
 
 .maser20 i,
-.gin20   i {
+.gin20 i {
     color: #ff812c;
 }
 
-.gin20   {
+.gin20 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin20   i {
+.gin20 i {
     font-size: 18px;
 }
+
 .gin20 h2 {
     font-size: 27px;
     color: #000000;
 }
 
-.card21{
+.card21 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:1120px;
+    margin-left: 1120px;
     margin-top: -409px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
-.nkar21{
-    width: 365px ;
+
+.nkar21 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
-.nkar21  img {
-    width:100%;
+.nkar21 img {
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun21    {
+.texekutyun21 {
     padding: 20px 22px 25px;
 }
 
@@ -1658,50 +1685,51 @@ top: -108px;
 }
 
 .maser21 i,
-.gin21   i {
+.gin21 i {
     color: #ff812c;
 }
 
-.gin21   {
+.gin21 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin21   i {
+.gin21 i {
     font-size: 18px;
 }
+
 .gin21 h2 {
     font-size: 27px;
     color: #000000;
 }
 
-.card22{
+.card22 {
     width: 345px;
     background: white;
     border-radius: 18px;
     overflow: hidden;
-    margin-left:400px;
+    margin-left: 400px;
     margin-top: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
-.nkar22{
-    width: 365px ;
+.nkar22 {
+    width: 365px;
     height: 277px;
     position: relative;
     padding: 5px;
 }
 
-.nkar22  img {
-    width:100%;
+.nkar22 img {
+    width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 14px;
 }
 
-.texekutyun22    {
+.texekutyun22 {
     padding: 20px 22px 25px;
 }
 
@@ -1719,20 +1747,21 @@ top: -108px;
 }
 
 .maser22 i,
-.gin22   i {
+.gin22 i {
     color: #ff812c;
 }
 
-.gin22   {
+.gin22 {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 23px;
 }
 
-.gin22     i {
+.gin22 i {
     font-size: 18px;
 }
+
 .gin22 h2 {
     font-size: 27px;
     color: #000000;
@@ -1863,4 +1892,111 @@ top: -108px;
 .gin24 h2 {
     font-size: 27px;
     color: #000000;
+}
+
+.div-glxavor {
+    width: 100%;
+    height: 80vh;
+
+    background-image: url("https://images.wallpaperscraft.com/image/single/trees_green_fog_118416_2560x1440.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.glxavordiv98 {
+    width: 70%;
+    height: 208px;
+
+    background: rgba(40, 49, 47, 0.88);
+    backdrop-filter: blur(12px);
+
+    border: 1px solid #999;
+    border-radius: 17px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 60px;
+}
+
+.texadrel {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.texadrel span {
+    flex: 1;
+    height: 2px;
+    background: white;
+}
+
+.texadrel h1 {
+    color: white;
+    font-size: 34px;
+    white-space: nowrap;
+}
+
+.glxavordiv98 p {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-top: 45px;
+    margin-bottom: 27px;
+}
+
+.glxavordiv98 form {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.glxavordiv98 input {
+    flex: 1;
+    min-width: 0;
+    height: 56px;
+
+    background: transparent;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+
+    padding: 0 19px;
+    color: white;
+    font-size: 15px;
+    outline: none;
+}
+
+.glxavordiv98 input::placeholder {
+    color: #aaa;
+}
+
+.glxavordiv98 button {
+    height: 56px;
+    padding: 0 30px;
+
+    border: none;
+    border-radius: 35px;
+
+    background: #ff9635;
+    color: white;
+
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.glxavordiv98 button:hover {
+    background: #e98120;
 }
