@@ -1429,3 +1429,66 @@ top: -108px;
     font-size: 27px;
     color: #000000;
 }
+
+
+
+.card18{
+    width: 345px;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+    margin-left:1120px;
+    margin-top: -405px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.nkar18{
+    width: 365px ;
+    height: 277px;
+    position: relative;
+    padding: 5px;
+}
+
+.nkar18 img {
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.texekutyun18   {
+    padding: 20px 22px 25px;
+}
+
+.maser18 {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.maser18 div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 19px;
+}
+
+.maser18 i,
+.gin18   i {
+    color: #ff812c;
+}
+
+.gin18   {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 23px;
+}
+
+.gin18   i {
+    font-size: 18px;
+}
+.gin18 h2 {
+    font-size: 27px;
+    color: #000000;
+}
