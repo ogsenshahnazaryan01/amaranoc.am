@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+.amaranoc {
+    width: 200px;
+    height: 190px;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.zexcher {
+    position: absolute;
+    color: black;
+    width: 100px;
+    height: 100px;
+    left: 550px;
+    top: 35px;
+}
+
+.carayutyunner {
+    position: absolute;
+    color: black;
+    width: 100px;
+    height: 100px;
+    left: 700px;
+    top: 35px;
+}
+
+.mermasin {
+    position: absolute;
+    color: black;
+    width: 100px;
+    height: 100px;
+    left: 900px;
+    top: 35px;
+}
+
+.globus {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 1100px;
+    top: 34px;
+}
+
+.mard {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1150px;
+    top: 30px;
+}
+
+.glxavor2 {
+    position: relative;
+    color: black;
+    width: 200px;
+    top: -108px;
+    left: 400px;
+
+}
+
+.inputvoronum {
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    left: 1250px;
+    top: 34px;
+}
+
+.voronum {
+    position: absolute;
+    left: 1260px;
+    top: 34px;
+}
+
+.navigation-mas {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 20px 25px;
+    width: 70%;
+    margin-left: 400px;
+    margin-top: -1100px;
+}
+
+.kategoria {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+    white-space: nowrap;
+}
+
+.kategoria img {
+    width: 41px;
+    height: 40px;
+}
+
+.kategoria span {
+    font-size: 16px;
+    color: #101623;
+}
+
+.kategoria-imas {
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    border: 1px solid #999;
+    border-radius: 50%;
+    background: white;
+    cursor: pointer;
+}
