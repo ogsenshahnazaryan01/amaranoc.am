@@ -1367,3 +1367,65 @@ top: -108px;
     font-size: 27px;
     color: #000000;
 }
+
+
+.card17{
+    width: 345px;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+    margin-left:760px;
+    margin-top: -405px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.nkar17{
+    width: 365px ;
+    height: 277px;
+    position: relative;
+    padding: 5px;
+}
+
+.nkar17 img {
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.texekutyun17    {
+    padding: 20px 22px 25px;
+}
+
+.maser17 {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.maser17 div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 19px;
+}
+
+.maser17 i,
+.gin17   i {
+    color: #ff812c;
+}
+
+.gin17   {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 23px;
+}
+
+.gin17   i {
+    font-size: 18px;
+}
+.gin17 h2 {
+    font-size: 27px;
+    color: #000000;
+}
