@@ -221,3 +221,358 @@ color: white;
   font-weight: bold;
   cursor: pointer;
 }
+
+.card22 {
+    width: 400px;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+    margin-left: 200px;
+    margin-top: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.nkar22 {
+    width: 365px;
+    height: 277px;
+    position: relative;
+    padding: 5px;
+}
+
+.nkar22 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.texekutyun22 {
+    padding: 20px 22px 25px;
+}
+
+.maser22 {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.maser22 div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 19px;
+}
+
+.maser22 i,
+.gin22 i {
+    color: #ff812c;
+}
+
+.gin22 {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 23px;
+}
+
+.gin22 i {
+    font-size: 18px;
+}
+
+.gin22 h2 {
+    font-size: 27px;
+    color: #000000;
+}
+
+
+
+.card23 {
+    width: 400px;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+    margin-left: 580px;
+    margin-top: -405px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.nkar23 {
+    width: 365px;
+    height: 277px;
+    position: relative;
+    padding: 5px;
+}
+
+.nkar23 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.texekutyun23 {
+    padding: 20px 22px 25px;
+}
+
+.maser23 {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.maser23 div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 19px;
+}
+
+.maser23 i,
+.gin23 i {
+    color: #ff812c;
+}
+
+.gin23 {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 23px;
+}
+
+.gin23 i {
+    font-size: 18px;
+}
+
+.gin23 h2 {
+    font-size: 27px;
+    color: #000000;
+}
+
+
+.card24 {
+    width: 400px;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+    margin-left: 960px;
+    margin-top: -405px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.nkar24 {
+    width: 100%;
+    height: 277px;
+    position: relative;
+    padding: 5px;
+}
+
+.nkar24 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.texekutyun24 {
+    padding: 20px 22px 25px;
+}
+
+.maser24 {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.maser24 div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 19px;
+}
+
+.maser24 i,
+.gin24 i {
+    color: #ff812c;
+}
+
+.gin24 {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 23px;
+}
+
+.gin24 i {
+    font-size: 18px;
+}
+
+.gin24 h2 {
+    font-size: 27px;
+    color: #000000;
+}
+
+.div-glxavor {
+    width: 100%;
+    height: 80vh;
+
+    background-image: url("https://images.wallpaperscraft.com/image/single/trees_green_fog_118416_2560x1440.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.glxavordiv98 {
+    width: 70%;
+    height: 208px;
+
+    background: rgba(40, 49, 47, 0.88);
+    backdrop-filter: blur(12px);
+
+    border: 1px solid #999;
+    border-radius: 17px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 60px;
+}
+
+.texadrel {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.texadrel span {
+    flex: 1;
+    height: 2px;
+    background: white;
+}
+
+.texadrel h1 {
+    color: white;
+    font-size: 34px;
+    white-space: nowrap;
+}
+
+.glxavordiv98 p {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-top: 45px;
+    margin-bottom: 27px;
+}
+
+.glxavordiv98 form {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.glxavordiv98 input {
+    flex: 1;
+    min-width: 0;
+    height: 56px;
+
+    background: transparent;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+
+    padding: 0 19px;
+    color: white;
+    font-size: 15px;
+    outline: none;
+}
+
+.glxavordiv98 input::placeholder {
+    color: #aaa;
+}
+
+.glxavordiv98 button {
+    height: 56px;
+    padding: 0 30px;
+
+    border: none;
+    border-radius: 35px;
+
+    background: #ff9635;
+    color: white;
+
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.glxavordiv98 button:hover {
+    background: #e98120;
+}
+.verjnamas {
+    width: 100%;
+    height: 540px;
+
+    background-color: #101522;
+    background-image: url("https://amaranoc.am/_next/image?url=%2Fimages%2Ffooter%2Ffooter-background.png&w=1920&q=75");
+
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 100% auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 45px;
+    color: white;
+}
+
+.verjnamas h1 {
+    font-size: 38px;
+    margin-bottom: 55px;
+}
+
+.verjnamas-contacts {
+    width: 82%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kontakt {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.kontakt i {
+    font-size: 16px;
+}
+
+.gaxniutyun {
+    color: white;
+    margin-top: 50px;
+    font-size: 15px;
+}
+
+.verjnamas-copyright {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    margin-top: 45px;
+    font-size: 15px;
+}
