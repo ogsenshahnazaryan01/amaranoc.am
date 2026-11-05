@@ -1562,7 +1562,7 @@ top: -108px;
     border-radius: 18px;
     overflow: hidden;
     margin-left:760px;
-    margin-top: -415px;
+    margin-top: -405px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
@@ -1613,6 +1613,67 @@ top: -108px;
     font-size: 18px;
 }
 .gin20 h2 {
+    font-size: 27px;
+    color: #000000;
+}
+
+.card21{
+    width: 345px;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+    margin-left:1120px;
+    margin-top: -409px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.nkar21{
+    width: 365px ;
+    height: 277px;
+    position: relative;
+    padding: 5px;
+}
+
+.nkar21  img {
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.texekutyun21    {
+    padding: 20px 22px 25px;
+}
+
+.maser21 {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.maser21 div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 19px;
+}
+
+.maser21 i,
+.gin21   i {
+    color: #ff812c;
+}
+
+.gin21   {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 23px;
+}
+
+.gin21   i {
+    font-size: 18px;
+}
+.gin21 h2 {
     font-size: 27px;
     color: #000000;
 }
