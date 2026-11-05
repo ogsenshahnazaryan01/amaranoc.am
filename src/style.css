@@ -332,3 +332,80 @@ top: -108px;
   font-size: 24px;
   color: #101623;
 }
+
+
+.card {
+    width: 365px;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+    margin-left: 400px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.image {
+    width: 365px ;
+    height: 277px;
+    position: relative;
+    padding: 5px;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.heart {
+    position: absolute;
+    right: 17px;
+    bottom: 17px;
+    width: 43px;
+    height: 43px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    color: #444;
+}
+
+.info {
+    padding: 20px 22px 25px;
+}
+
+.details {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.details div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 19px;
+}
+
+.details i,
+.price i {
+    color: #ff812c;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 23px;
+}
+
+.price i {
+    font-size: 18px;
+}
+
+.price h2 {
+    font-size: 27px;
+    color: #52677f;
+}
