@@ -81,6 +81,7 @@ top: -108px;
     position: absolute;
     width: 100px;
     height: 40px;
+   background-color: White;
     border: 1px solid;
     border-radius: 20px;
     left: 1100px;
@@ -98,6 +99,7 @@ top: -108px;
 .calendar-btn{
     position: absolute;
     width: 40px;
+    background-color: White;
     height: 40px;
     border: 1px solid;
     border-radius: 20px;
@@ -107,4 +109,179 @@ top: -108px;
 .calendar-btn:hover{
     background-color: #dfdfdf;
     color: white;
-}   
+}
+
+.divglxavor {
+    width: 320px;
+    max-width: 100%;
+    margin: 0;
+    padding: 12px;
+}
+
+
+.divglxavor section {
+    padding: 15px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.divglxavor  {
+    border-bottom: none;
+}
+
+.divglxavor h2 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.sarjvoxmas,
+.sharjvoxmas2 {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-height: 180px;
+    overflow-y: auto;
+    padding: 3px 0;
+}
+
+.sarjvoxmas label,
+.sharjvoxmas2 label {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    font-size: 14px;
+    color: #55545b;
+}
+
+.sarjvoxmas input,
+.sharjvoxmas2 input {
+    appearance: none;
+    width: 19px;
+    height: 19px;
+    border: 1.5px solid #d4d4d8;
+    border-radius: 5px;
+}
+
+.sarjvoxmas input:checked,
+.sharjvoxmas2 input:checked {
+    background: #17171f;
+    border-color: #17171f;
+}
+
+.sarjvoxmas input:checked::after,
+.sharjvoxmas2 input:checked::after {
+    display: block;
+    color: white;
+    text-align: center;
+    line-height: 16px;
+    font-size: 13px;
+}
+
+
+.pox {
+    display: flex;
+    justify-content: flex-end;
+    gap: 6px;
+    margin-bottom: 12px;
+}
+
+.divglxavor button {
+    font-family: inherit;
+}
+
+.pox button {
+    width: 38px;
+    height: 38px;
+    border: 1px solid #dedee2;
+    border-radius: 50%;
+    background: white;
+    color: #777780;
+    font-size: 16px;
+}
+
+.pox .dram,
+.divglxavor .selected {
+    background: #17171f;
+    color: white;
+    border-color: #17171f;
+}
+
+
+.poxichaps {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.poxichaps input {
+    width: 0;
+    min-width: 0;
+    flex: 1;
+    height: 42px;
+    padding: 0 8px;
+    border: 1px solid #dedee2;
+    border-radius: 8px;
+    font-size: 13px;
+}
+
+.poxichaps input:focus {
+    border-color: #7776e5;
+}
+
+.poxichaps span {
+    font-size: 14px;
+}
+
+
+.tulyatreliqanak,
+.qanakygisherakacov {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.tulyatreliqanak button,
+.qanakygisherakacov button {
+    width: 38px;
+    height: 38px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 50%;
+    background: #f0f0f2;
+    color: #17171f;
+    font-size: 19px;
+}
+
+.tulyatreliqanak input,
+.qanakygisherakacov input {
+    width: 65px;
+    height: 38px;
+    border: 1px solid #dedee2;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+.giserakac,
+.lracucich {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+}
+
+.giserakac button,
+.lracucich button {
+    min-height: 36px;
+    padding: 8px 12px;
+    border: 1px solid #dedee2;
+    border-radius: 22px;
+    background: white;
+    color: #666670;
+    font-size: 12px;
+}
+
+.giserakac .selected {
+    background: #17171f;
+    color: white;
+}
