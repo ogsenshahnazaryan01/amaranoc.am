@@ -71,3 +71,40 @@ top: -108px;
     left: 1260px;
     top: 34px;
 }
+
+.qartez{
+    position: absolute;
+    left: -650px;
+    top: 40px;
+}
+.qartez-btn{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    left: 1100px;
+    top: 80px;
+}
+.qartez-btn:hover{
+    background-color: #dfdfdf;
+    color: white;
+}
+.calendar{
+    position: absolute;
+    left: -600px;
+    top: 40px;
+}
+.calendar-btn{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    left: 1180px;
+    top: 80px;
+}
+.calendar-btn:hover{
+    background-color: #dfdfdf;
+    color: white;
+}   
