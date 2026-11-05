@@ -929,3 +929,67 @@ top: -108px;
   font-size: 24px;
   color: #101623;
 }
+
+
+    
+.card10 {
+    width: 345px;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+    margin-left:400px;
+    margin-top: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.nkar10{
+    width: 365px ;
+    height: 277px;
+    position: relative;
+    padding: 5px;
+}
+
+.nkar10 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.texekutyun10{
+    padding: 20px 22px 25px;
+}
+
+.maser10 {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.maser10 div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 19px;
+}
+
+.maser10 i,
+.gin10 i {
+    color: #ff812c;
+}
+
+.gin10  {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 23px;
+}
+
+.gin10  i {
+    font-size: 18px;
+}
+
+.gin10 h2 {
+    font-size: 27px;
+    color: #000000;
+}
