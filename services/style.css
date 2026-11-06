@@ -84,11 +84,11 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 15px;
-    padding: 20px 25px;
-    width: 70%;
-    margin-left: 400px;
-    margin-top: -1100px;
+    gap: 00px;
+    padding: 0px 0px;
+    width: 80%;
+    margin-left: 150px;
+    margin-top: 00px;
 }
 
 .kategoria {
@@ -118,4 +118,500 @@
     border-radius: 50%;
     background: white;
     cursor: pointer;
+}
+.cart {
+width: 450px;
+  margin: auto;
+  background: white;
+  border-radius: 18px;
+  overflow: hidden;
+  margin-left: 120px;
+  margin-top: 40px;
+  height: 600px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.04);
+}
+
+.cart img {
+  width: 100%;
+  height: 315px;
+  object-fit: cover;
+  display: block;
+}
+
+.kontent {
+  padding: 18px;
+}
+
+h3 {
+  margin: 0 0 14px;
+  font-size: 20px;
+}
+
+.zexch {
+  font-size: 17px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gin {
+  font-size: 23px;
+  font-weight: bold;
+  color: #536174;
+}
+
+.gin span {
+  color: #ff8738;
+}
+
+button {
+  border: 1px solid #ff8738;
+  background: white;
+  color: #222;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff8738;
+  color: white;
+}
+
+
+.cart1 {
+width:450px;
+  margin: auto;
+  background: white;
+  border-radius: 18px;
+  overflow: hidden;
+  margin-left: 600px;
+  margin-top: -600px;
+  height: 600px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.04);
+}
+
+.cart1 img {
+  width: 100%;
+  height: 315px;
+  object-fit: cover;
+  display: block;
+}
+
+.kontent1 {
+  padding: 18px;
+}
+
+h3 {
+  margin: 0 0 14px;
+  font-size: 20px;
+}
+
+.zexch1 {
+  font-size: 17px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.footer1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gin1 {
+  font-size: 23px;
+  font-weight: bold;
+  color: #536174;
+}
+
+.gin1 span {
+  color: #ff8738;
+}
+
+button {
+  border: 1px solid #ff8738;
+  background: white;
+  color: #222;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff8738;
+  color: white;
+}
+
+
+
+.cart2 {
+width:450px;
+  margin: auto;
+  background: white;
+  border-radius: 18px;
+  overflow: hidden;
+  margin-left: 1060px;
+  margin-top: -600px;
+  height: 600px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.04);
+}
+
+.cart2  img {
+  width: 100%;
+  height: 315px;
+  object-fit: cover;
+  display: block;
+}
+
+.kontent2 {
+  padding: 18px;
+}
+
+h3 {
+  margin: 0 0 14px;
+  font-size: 20px;
+}
+
+.zexch2 {
+  font-size: 17px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.footer2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gin2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: #536174;
+}
+
+.gin2 span {
+  color: #ff8738;
+}
+
+button {
+  border: 1px solid #ff8738;
+  background: white;
+  color: #222;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff8738;
+  color: white;
+}
+
+
+.cart3 {
+width: 450px;
+  margin: auto;
+  background: white;
+  border-radius: 18px;
+  overflow: hidden;
+  margin-left: 120px;
+  margin-top: 40px;
+  height: 600px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.04);
+}
+
+.cart3 img {
+  width: 100%;
+  height: 315px;
+  object-fit: cover;
+  display: block;
+}
+
+.kontent3 {
+  padding: 18px;
+}
+
+h3 {
+  margin: 0 0 14px;
+  font-size: 20px;
+}
+
+.zexch3 {
+  font-size: 17px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.footer3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gin3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: #536174;
+}
+
+.gin3 span {
+  color: #ff8738;
+}
+
+button {
+  border: 1px solid #ff8738;
+  background: white;
+  color: #222;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff8738;
+  color: white;
+}
+
+
+.cart4 {
+width:450px;
+  margin: auto;
+  background: white;
+  border-radius: 18px;
+  overflow: hidden;
+  margin-left: 600px;
+  margin-top: -600px;
+  height: 600px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.04);
+}
+
+.cart4 img {
+  width: 100%;
+  height: 315px;
+  object-fit: cover;
+  display: block;
+}
+
+.kontent4 {
+  padding: 18px;
+}
+
+h3 {
+  margin: 0 0 14px;
+  font-size: 20px;
+}
+
+.zexch4 {
+  font-size: 17px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.footer4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gin4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: #536174;
+}
+
+.gin4 span {
+  color: #ff8738;
+}
+
+button {
+  border: 1px solid #ff8738;
+  background: white;
+  color: #222;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff8738;
+  color: white;
+}
+
+
+.div-glxavor {
+    width: 100%;
+    height: 80vh;
+
+    background-image: url("https://images.wallpaperscraft.com/image/single/trees_green_fog_118416_2560x1440.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.glxavordiv98 {
+    width: 70%;
+    height: 208px;
+
+    background: rgba(40, 49, 47, 0.88);
+    backdrop-filter: blur(12px);
+
+    border: 1px solid #999;
+    border-radius: 17px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 60px;
+}
+
+.texadrel {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.texadrel span {
+    flex: 1;
+    height: 2px;
+    background: white;
+}
+
+.texadrel h1 {
+    color: white;
+    font-size: 34px;
+    white-space: nowrap;
+}
+
+.glxavordiv98 p {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-top: 45px;
+    margin-bottom: 27px;
+}
+
+.glxavordiv98 form {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.glxavordiv98 input {
+    flex: 1;
+    min-width: 0;
+    height: 56px;
+
+    background: transparent;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+
+    padding: 0 19px;
+    color: white;
+    font-size: 15px;
+    outline: none;
+}
+
+.glxavordiv98 input::placeholder {
+    color: #aaa;
+}
+
+.glxavordiv98 button {
+    height: 56px;
+    padding: 0 30px;
+
+    border: none;
+    border-radius: 35px;
+
+    background: #ff9635;
+    color: white;
+
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.glxavordiv98 button:hover {
+    background: #e98120;
+}
+.verjnamas {
+    width: 100%;
+    height: 540px;
+
+    background-color: #101522;
+    background-image: url("https://amaranoc.am/_next/image?url=%2Fimages%2Ffooter%2Ffooter-background.png&w=1920&q=75");
+
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 100% auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 45px;
+    color: white;
+}
+
+.verjnamas h1 {
+    font-size: 38px;
+    margin-bottom: 55px;
+}
+
+.verjnamas-contacts {
+    width: 82%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kontakt {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.kontakt i {
+    font-size: 16px;
+}
+
+.gaxniutyun {
+    color: white;
+    margin-top: 50px;
+    font-size: 15px;
+}
+
+.verjnamas-copyright {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    margin-top: 45px;
+    font-size: 15px;
 }

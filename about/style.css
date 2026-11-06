@@ -1,0 +1,491 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    
+}
+.amaranoc{ 
+width:200px;
+height: 190px;
+margin-left: 50px;
+margin-top: -50px;
+}
+
+.zexcher{
+    position: absolute;
+    color: black;
+    width: 100px;
+    height: 100px;
+    left:550px;
+    top: 35px;
+}
+.carayutyunner{
+    position: absolute;
+    color: black;
+    width: 100px;
+    height: 100px;
+    left:700px;
+    top: 35px;
+}
+.mermasin{
+    position: absolute;
+    color: black;
+    width: 100px;
+    height: 100px;
+    left:900px; 
+    top: 35px;
+}
+.globus{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 1100px;
+    top: 34px;
+}
+.mard{
+       position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1150px;
+    top: 30px; 
+}
+.glxavor2{
+ position: relative;
+   color: black; 
+    width: 200px;
+top: -108px;
+   left: 400px;
+
+}
+.inputvoronum{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    left: 1250px;
+    top: 34px;
+}
+.voronum{
+    position: absolute;
+    left: 1260px;
+    top: 34px;
+}
+.mermasinn{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.mermasin3{
+    position: absolute;
+    width: 900px;
+    height: 600px;
+    top:1020px;
+    left: 50px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.vstahutyun{
+    position: absolute;
+    margin-left: 1020px;
+    width: 500px;
+}
+.vstahutyun2{
+    position: absolute;
+    top:1020px;
+    left: 1060px;
+    width: 300px;
+    font-size: 40px;
+}
+.mermasintext{
+    margin-top: 940px;
+}
+.mermtim{
+    position: absolute;
+    width: 900px;
+    height: 600px;
+    top:1700px;
+    left: 590px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.mertim3{
+    position: absolute;
+    width: 900px;
+    height: 600px;
+    top:1750px;
+    left: 200px;
+    font-size: 40px;
+}
+.mertim4{
+     position: absolute;
+    width: 900px;
+    height: 600px;
+    top:1830px;
+    left: 150px;
+}
+.masnaget{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 2400px;
+}
+.masnaget3{
+    position: absolute;
+    width: 900px;
+    height: 600px;
+    top:3230px;
+    left: 50px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.hamagorcakacel{
+        position: absolute;
+    top:3240px;
+    left: 1100px;
+    
+}
+.erashxavorum{
+    position: absolute;
+    top:3340px;
+    left: 1100px;
+}
+.marceting1{
+       position: absolute;
+    width: 900px;
+    height: 600px;
+    top:3850px;
+    left: 590px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.marqeting3{
+       position: absolute;
+       font-size: 30px;
+       left: 200px;
+       top: 3920px;
+
+}
+.marceting{
+    position: absolute;
+    top:4000px;
+    width: 900px;
+    height: 600px;  
+    left: 150px;
+}
+.merpatmutyun{
+      position: absolute;
+    width: 900px;
+    height: 600px;
+    top:4500px;
+    left: 50px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.merpatmutyun3{
+       position: absolute;
+       font-size: 30px;
+       left: 1100px;
+       top: 4520px;
+}
+.merpatmutyun4{
+         position: absolute;
+       left: 1050px;
+       top: 4580px;
+}
+.nkar100{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 5200px;
+}
+.karciqner{
+    display: flex;
+    justify-content: center;
+}
+.karciqner2{
+    position: absolute;
+    top: 6100px;
+    font-size: 50px;
+}
+.coment2{
+    position: absolute;
+    top: 6200px;
+    left: 100px;
+    width: 50px;
+    height: 50px;
+    border-radius: 150px;
+}
+.coment3{
+    position: absolute;
+    top: 6215px;
+    left: 160px;
+    border-radius: 150px;
+    font-size: 20px;
+}
+.astx{
+        position: absolute;
+    top: 6249px;
+    left: 100px;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+}
+.services{
+    position: absolute;
+    top: 6290px;
+    left: 100px;
+    font-size: 20px;
+    width: 400px;
+    height: 400px;
+
+}
+.coment4{
+    position: absolute;
+    top: 149px;
+    left: 10px;
+}
+.coment22{
+    position: absolute;
+    top: 6200px;
+    left: 100px;
+    width: 50px;
+    height: 50px;
+    border-radius: 150px;
+}
+.coment33{
+    position: absolute;
+    top: 6215px;
+    left: 160px;
+    border-radius: 150px;
+    font-size: 20px;
+}
+.astx2{
+        position: absolute;
+    top: 6249px;
+    left: 100px;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+}
+.services2{
+    position: absolute;
+    top: 6290px;
+    left: 100px;
+    font-size: 20px;
+    width: 400px;
+    height: 400px;
+
+}
+.coment44{
+    position: absolute;
+    top: 140px;
+    left: 450px;
+}
+
+.coment223{
+    position: absolute;
+    top: 6200px;
+    left: 100px;
+    width: 50px;
+    height: 50px;
+    border-radius: 150px;
+}
+.coment334{
+    position: absolute;
+    top: 6215px;
+    left: 160px;
+    border-radius: 150px;
+    font-size: 20px;
+    width: 300px;
+
+}
+.astx3{
+        position: absolute;
+    top: 6249px;
+    left: 100px;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+}
+.services22{
+    position: absolute;
+    top: 6290px;
+    left: 100px;
+    font-size: 20px;
+    width: 500px;
+    height: 600px;
+
+}
+.coment45{
+    position: absolute;
+    top: 140px;
+    left: 900px;
+}
+
+
+.div-glxavor {
+    width: 100%;
+    height: 80vh;
+
+    background-image: url("https://images.wallpaperscraft.com/image/single/trees_green_fog_118416_2560x1440.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6500px;
+}
+
+.glxavordiv98 {
+    width: 70%;
+    height: 208px;
+
+    background: rgba(40, 49, 47, 0.88);
+    backdrop-filter: blur(12px);
+
+    border: 1px solid #999;
+    border-radius: 17px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 60px;
+}
+
+.texadrel {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.texadrel span {
+    flex: 1;
+    height: 2px;
+    background: white;
+}
+
+.texadrel h1 {
+    color: white;
+    font-size: 34px;
+    white-space: nowrap;
+}
+
+.glxavordiv98 p {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-top: 45px;
+    margin-bottom: 27px;
+}
+
+.glxavordiv98 form {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.glxavordiv98 input {
+    flex: 1;
+    min-width: 0;
+    height: 56px;
+
+    background: transparent;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+
+    padding: 0 19px;
+    color: white;
+    font-size: 15px;
+    outline: none;
+}
+
+.glxavordiv98 input::placeholder {
+    color: #aaa;
+}
+
+.glxavordiv98 button {
+    height: 56px;
+    padding: 0 30px;
+
+    border: none;
+    border-radius: 35px;
+
+    background: #ff9635;
+    color: white;
+
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.glxavordiv98 button:hover {
+    background: #e98120;
+}
+.verjnamas {
+    width: 100%;
+    height: 540px;
+
+    background-color: #101522;
+    background-image: url("https://amaranoc.am/_next/image?url=%2Fimages%2Ffooter%2Ffooter-background.png&w=1920&q=75");
+
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 100% auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 45px;
+    color: white;
+}
+
+.verjnamas h1 {
+    font-size: 38px;
+    margin-bottom: 55px;
+}
+
+.verjnamas-contacts {
+    width: 82%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kontakt {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.kontakt i {
+    font-size: 16px;
+}
+
+.gaxniutyun {
+    color: white;
+    margin-top: 50px;
+    font-size: 15px;
+}
+
+.verjnamas-copyright {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    margin-top: 45px;
+    font-size: 15px;
+}
