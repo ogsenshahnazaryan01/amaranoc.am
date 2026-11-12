@@ -119,3 +119,107 @@ color: white;
   line-height: 1.4;
   margin: 0;
 }
+
+.nver-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  padding: 40px 50px;
+  font-family: Arial, sans-serif;
+}
+
+.nver-info {
+  background: #fafafa;
+  padding: 45px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+}
+
+.nver-info h2 {
+  font-size: 38px;
+  line-height: 1.7;
+  font-weight: 900;
+  color: #111827;
+  margin: 0;
+}
+
+.nver-info h2 span {
+  color: #ff983b;
+}
+
+.nver-line {
+  height: 1px;
+  background: #ff983b;
+  margin: 12px 0 25px;
+}
+
+.nver-info p {
+  font-size: 16px;
+  line-height: 1.4;
+  color: #111827;
+}
+
+.nver-card {
+  background: linear-gradient(120deg, #ff9638, #e95716);
+  border-radius: 20px;
+  min-height: 340px;
+  padding: 55px 30px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.gift-logo {
+  width: 340px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gift-logo img {
+  width: 100%;
+  height: 65px;
+  object-fit: contain;
+}
+.nver-logo span {
+  letter-spacing: 0;
+}
+
+.nver-logo small {
+  display: block;
+  font-size: 9px;
+  letter-spacing: 2px;
+}
+
+.nver-prices {
+  display: grid;
+  grid-template-columns: repeat(3, 135px);
+  gap: 9px;
+}
+
+.nver-prices button {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  border-radius: 30px;
+  padding: 12px 8px;
+  font-size: 19px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.nver-prices button:hover {
+  background: white;
+  color: #ed681e;
+}
+
+.nver-order {
+  background: #ff9b3c;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 15px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
