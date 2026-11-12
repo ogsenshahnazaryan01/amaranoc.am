@@ -79,3 +79,43 @@
     left: 1260px;
     top: 34px;
 }
+
+.zexcinkar {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  padding: 35px 32px;
+}
+
+.zexcinkar-card{
+  height: 315px;
+  padding: 25px 27px;
+  border-radius: 18px;
+  overflow: hidden;
+  background-image:    url("https://amaranoc.am/images/raffle/special-discounts-image.jpg");
+  background-size: cover;
+  background-position: center;
+color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.zexcinkar-card h2 {
+  font-size: 100px;
+  font-weight: 900;
+  margin: 0 0 20px;
+  line-height: 1;
+}
+
+.zexcinkar-card h3 {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+
+.zexcinkar-card p {
+  font-size: 16px;
+  line-height: 1.4;
+  margin: 0;
+}
